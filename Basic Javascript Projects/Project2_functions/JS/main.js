@@ -8,3 +8,10 @@ function My_Function() { //creating function//
     phrase += " how to code in javascript!"; //concenating variable and string of text//
     document.getElementById("trial").innerHTML = phrase; //calling to the html file//
 }
+
+document.getElementById("shoe").style.color = "blue";
+
+function myFunction(a, b) {
+    return a * b;
+}
+document.getElementById("hello").innerHTML = myFunction(9, 9);

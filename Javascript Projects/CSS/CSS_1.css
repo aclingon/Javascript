@@ -1,0 +1,19 @@
+#cont form {
+    width: 60%;
+    margin: auto;
+    border: 8px dotted lightblue;
+}
+
+#cont input[type="text"] {
+    width: 98%;
+    margin: auto;
+    border: 2px solid darkblue;
+    border-radius: 3px;
+    padding: 3px 8px;
+    background-color: floralwhite;
+}
+body {
+    text-align: center;
+    color: darkblue;
+    background-color: paleturquoise;
+}

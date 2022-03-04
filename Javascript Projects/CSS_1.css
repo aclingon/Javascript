@@ -1,0 +1,12 @@
+#cont form {
+    width: auto;
+    margin: auto;
+    border: 8px dotted lightblue;
+}
+
+#cont input[type="text"] {
+    width: 80%;
+    margin: auto;
+    border: 2px solid darkblue;
+    border-radius: 3px;
+}
